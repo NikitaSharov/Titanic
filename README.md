@@ -1,2 +1,2 @@
 # Titanic
-Predicting passenger survival 
+Predicting passenger survival rate
